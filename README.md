@@ -9,15 +9,13 @@
   <h3>Aspiring Web Developer</h3>
 
   <p>Learning, building, and growing one step at a time.</p>
-
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=435&lines=Currently+learning+HTML+%26+CSS;Building+my+web+development+skills;Every+project+is+a+new+step" alt="Typing animation" />
 </div>
 
 ---
 
 ## 🌷 About Me
 
-- 👋 Hi! I'm Aisha.
+- 👋 Hi! I'm Aiysha.
 - 🌱 I'm learning **web development**.
 - 💻 So far, I've learned **HTML** and **CSS**.
 - ✨ I'm practicing by building web projects and improving step by step.
@@ -38,9 +36,6 @@
 
 Here are some projects from my web development learning journey. I'll add the project links as I publish them on GitHub.
 
-- **[Project Name 1](YOUR_PROJECT_LINK_HERE)** — A short description of what you built with HTML and CSS.
-- **[Project Name 2](YOUR_PROJECT_LINK_HERE)** — A short description of another project.
-- **[Project Name 3](YOUR_PROJECT_LINK_HERE)** — A short description of what you practiced.
 
 ---
 

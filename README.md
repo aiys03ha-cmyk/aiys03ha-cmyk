@@ -2,7 +2,9 @@
 <!-- Aiysha's GitHub Profile README -->
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding animation" />
+  <img src="YOUR_GIRL_PROGRAMMER_IMAGE_URL"
+     width="320"
+     alt="Girl programming on a laptop" />
 
   <h1>Hi, I'm Aiysha! 💜</h1>
 

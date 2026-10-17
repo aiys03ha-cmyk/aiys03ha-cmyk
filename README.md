@@ -4,7 +4,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding animation" />
 
-  <h1>Hi, I'm Aisha! 💜</h1>
+  <h1>Hi, I'm Aiysha! 💜</h1>
 
   <h3>Aspiring Web Developer</h3>
 
